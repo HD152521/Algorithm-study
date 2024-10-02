@@ -12,3 +12,4 @@
 |3주차|08.19~08.26|재귀, 정렬|[2750](https://www.acmicpc.net/problem/2750)|[10814](https://www.acmicpc.net/problem/10814)|[17478](https://www.acmicpc.net/problem/17478)|[2447](https://www.acmicpc.net/problem/2447)|[18870](https://www.acmicpc.net/problem/18870)|
 |4주차|09.02~09.09|다이나믹 프로그래밍|[11722](https://www.acmicpc.net/problem/11722)|[11055](https://www.acmicpc.net/problem/11055)|[2225](https://www.acmicpc.net/problem/2225)|[11726](https://www.acmicpc.net/problem/11726)|---|
 |5주차|09.10~09.16|BFS, DFS|[10026](https://www.acmicpc.net/problem/10026)|[1926](https://www.acmicpc.net/problem/1926)|[9466](https://www.acmicpc.net/problem/9466)|---|---|
+|6주차|09.24~10.1|다이나믹 프로그래밍(2)|[9251](https://www.acmicpc.net/problem/9251)|[15486](https://www.acmicpc.net/problem/15486)|[2011](https://www.acmicpc.net/problem/2011)|---|---|
